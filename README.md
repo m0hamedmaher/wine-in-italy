@@ -7,7 +7,7 @@ This project was undertaken during my training at NTI, where I aimed to analyze 
 
 ### Dataset
 
-The dataset used is a well-known dataset for wine classification, containing chemical properties of various wines. You can find the dataset [here](https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009) (replace with the actual link if different).
+The dataset used is a well-known dataset for wine classification, containing chemical properties of various wines. You can find the dataset ( https://archive.ics.uci.edu/ml/machine-learning-databases/wine/wine.data ) (replace with the actual link if different).
 
 ### Project Steps
 
